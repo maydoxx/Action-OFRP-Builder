@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://codeberg.org/maydo/android_samsung_device_a04'
+        default: 'https://codeberg.org/maydo/android_device_samsung_a04'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
